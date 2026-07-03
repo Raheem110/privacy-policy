@@ -16,7 +16,6 @@ This repository hosts the Privacy Policy for the AI BG Remover Android applicati
 The official Privacy Policy is available at:
 
 **https://raheem110.github.io/privacy-policy/**
-terms-and-conditions.html
 
 ## Repository Purpose
 
