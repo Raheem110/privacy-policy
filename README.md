@@ -21,7 +21,7 @@ The official Privacy Policy is available at:
 
 The official Terms & Conditions are available at:
 
-**https://raheem110.github.io/privacy-policy/terms.html**
+
 
 ## Repository Purpose
 
