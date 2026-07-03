@@ -22,33 +22,11 @@
 
 ---
 
-## Privacy policy (HTML)
+## Privacy Policy
 
-The hosted privacy policy for Google Play and GitHub Pages is here:
+📄 **[Privacy Policy](docs/privacy-policy.html)**
 
-```
-docs/privacy-policy.html
-```
-
-**Full path:** `d:\AIBGRemoverEditor\docs\privacy-policy.html`
-
-The same policy text also lives in the app at:
-
-- `app/src/main/res/values/strings.xml` → `privacy_content`
-- In-app screen: `PrivacyActivity` → `app/src/main/res/layout/activity_privacy.xml`
-
-### Host on GitHub Pages
-
-1. Push this repo to GitHub.
-2. Go to **Settings → Pages**.
-3. Source: **Deploy from a branch** → `main` → `/docs` folder.
-4. Your public URL will be:
-
-   `https://<your-username>.github.io/<repo-name>/privacy-policy.html`
-
-5. Paste that URL into the **Google Play Console → App content → Privacy policy** field.
-
-**Contact (from policy):** [abdurraheemk622@gmail.com](mailto:abdurraheemk622@gmail.com)
+Questions or support: [abdurraheemk622@gmail.com](mailto:abdurraheemk622@gmail.com)
 
 ---
 
