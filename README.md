@@ -1,8 +1,8 @@
-# AI BG Remover – Official Privacy Policy
+# AI BG Remover – Official Legal Documents
 
-Welcome to the official Privacy Policy repository for **AI BG Remover**, developed by **RaheemTech**.
+Welcome to the official legal documents repository for **AI BG Remover**, developed by **RaheemTech**.
 
-This repository hosts the official legal documents for the AI BG Remover Android application.
+This repository hosts the official legal documents for the **AI BG Remover** Android application using GitHub Pages.
 
 ## App Information
 
@@ -11,20 +11,19 @@ This repository hosts the official legal documents for the AI BG Remover Android
 * **Package Name:** `com.raheemtech.bgremover`
 * **Platform:** Android
 
-## Privacy Policy
+## Legal Documents
 
-The official Privacy Policy is available at:
+### Privacy Policy
 
-**https://raheem110.github.io/privacy-policy/**
+https://raheem110.github.io/privacy-policy/
 
-## Terms & Conditions
+### Terms & Conditions
 
-The official Terms & Conditions are available at:
 https://raheem110.github.io/privacy-policy/terms-and-conditions.html
 
 ## Repository Purpose
 
-This repository publishes and maintains the official legal documents for AI BG Remover, including the Privacy Policy and Terms & Conditions.
+This repository provides the official Privacy Policy and Terms & Conditions for AI BG Remover. These documents are maintained here to ensure transparency for users and compliance with app store requirements.
 
 ---
 
