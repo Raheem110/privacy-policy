@@ -75,6 +75,7 @@
             <li>Background removal, blur, and most editing run locally on your phone.</li>
             <li>Your own photos are not uploaded to us for background removal.</li>
             <li>The free version shows ads through Google AdMob.</li>
+            <li>Usage analytics are collected through Google Firebase Analytics to improve the app.</li>
             <li>We do not sell your personal information.</li>
         </ul>
 
@@ -87,10 +88,10 @@
         </ul>
 
         <h2>3. Device permissions</h2>
-        <p>The app requests permissions only to provide features you choose to use:</p>
+        <p>The app requests network permissions for ads and consent. For photos:</p>
         <ul>
-            <li><strong>Camera</strong> — capture a photo for editing when you tap Camera</li>
-            <li><strong>Photos/Media</strong> (READ_MEDIA_IMAGES / gallery access) — pick an image when you tap Gallery</li>
+            <li><strong>Gallery</strong> — the Android system Photo Picker lets you choose images without broad photo-library access</li>
+            <li><strong>Camera</strong> — when you tap Camera, your device&apos;s system camera app opens to take a photo; the app does not request the Camera permission</li>
             <li><strong>Internet</strong> — load ads and request ad consent where required</li>
             <li><strong>Network state</strong> — check connectivity before ad requests</li>
         </ul>
@@ -102,9 +103,15 @@
             background-removal server operated by us.
         </p>
 
-        <h2>5. Diagnostics (Firebase Crashlytics)</h2>
+        <h2>5. Analytics and diagnostics (Firebase)</h2>
         <p>
-            To improve stability, the app may send crash and error reports to Google Firebase Crashlytics. These reports
+            The app uses <strong>Google Firebase Analytics</strong> to understand how features are used and to improve
+            the app. Analytics may collect information such as app interactions, screen or feature usage, device model,
+            operating system version, app version, and general usage statistics. Analytics does
+            <strong>not</strong> include your photos, edited images, or background-removal content.
+        </p>
+        <p>
+            To improve stability, the app may also send crash and error reports to Google Firebase Crashlytics. These reports
             may include device model, operating system version, app version, and technical stack traces. They do
             <strong>not</strong> include your photos or edited images. Google&apos;s privacy policy applies to this
             processing:
@@ -163,6 +170,7 @@
             <li>You can deny or revoke permissions in Android Settings.</li>
             <li>You can uninstall the app to remove locally stored app data.</li>
             <li>You can manage ad personalization through Google/device settings and UMP consent choices where available.</li>
+            <li>You can limit analytics data collection through your device or Google account settings where available.</li>
         </ul>
 
         <h2>12. Changes to this policy</h2>
