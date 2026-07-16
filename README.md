@@ -16,7 +16,7 @@
 - **Custom backgrounds** — solid color, gradient, gallery image, transparent
 - **Save & share** edited images (JPG, PNG, WEBP)
 - **Recent projects** — resume editing (free & VIP tiers)
-- **VIP lifetime unlock** — no ads, higher resolution export, more project slots
+- **VIP lifetime unlock** — no ads, export up to 2560 px, more project slots
 - **Light & dark theme**
 - **Privacy-first** — photos processed on your phone, not uploaded for background removal
 
@@ -129,8 +129,8 @@ See [SECURITY_REPORT.md](SECURITY_REPORT.md) for the full security checklist.
 | Feature | Free | VIP |
 |---------|------|-----|
 | Background removal | ✅ | ✅ |
-| Max process / export edge | 1080px | 4096px |
-| Inference letterbox edge | 1024px | 1536px |
+| Max process / export edge | 1280px | 2560px |
+| Inference letterbox edge | 1280px | 1536px |
 | Ads | Yes | No |
 | Recent projects | 5 | 40 |
 
