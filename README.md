@@ -1,6 +1,6 @@
-# AI BG Remover
+# Background Remover
 
-**AI BG Remover** is an Android app  **Developed by AR Infinity Studio** that lets you remove, replace, and edit image backgrounds directly on your device. Your photos are processed locally for background removal, helping protect your privacy.
+**Background Remover** is an Android app  **Developed by AR Infinity Studio** that lets you remove, replace, and edit image backgrounds directly on your device. Your photos are processed locally for background removal, helping protect your privacy.
 
 ---
 
@@ -59,7 +59,7 @@ https://play.google.com/store/apps/details?id=com.raheemtech.bgremover
 
 ## Open Source
 
-AI BG Remover uses several open-source Android libraries. Their respective licenses remain the property of their original authors.
+Background Remover uses several open-source Android libraries. Their respective licenses remain the property of their original authors.
 
 ---
 
@@ -67,4 +67,4 @@ AI BG Remover uses several open-source Android libraries. Their respective licen
 
 **© Raheem Tech. All rights reserved.**
 
-The AI BG Remover name, branding, graphics, and application are the intellectual property of Raheem Tech. Unauthorized copying, redistribution, or commercial use is prohibited.
+The Background Remover name, branding, graphics, and application are the intellectual property of Raheem Tech. Unauthorized copying, redistribution, or commercial use is prohibited.
